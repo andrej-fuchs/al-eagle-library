@@ -1,0 +1,5 @@
+# Ignore the board and schematic backup files and lock files
+*.b#?
+*.s#?
+*.l#?
+*.lck
